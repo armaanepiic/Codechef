@@ -3,7 +3,7 @@
 //Programming is nothing but an addiction.
 
 
-//                                              solution link : https://www.codechef.com/viewsolution/53427858
+//      solution link :                                     https://www.codechef.com/viewsolution/53427858
 
 
 #include <bits/stdc++.h>
