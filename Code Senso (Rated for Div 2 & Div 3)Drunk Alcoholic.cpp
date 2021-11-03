@@ -1,6 +1,11 @@
 //Bismillahir rahmanir rahim
 //Arman Hossain C193033
 //Programming is nothing but an addiction.
+
+
+//                                              solution link : https://www.codechef.com/viewsolution/53427858
+
+
 #include <bits/stdc++.h>
 using namespace std;
 #define     pb          push_back
